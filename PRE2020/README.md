@@ -1,6 +1,6 @@
 ## Fujiki Y, Yakubo K. Identification of intrinsic long-range degree correlations in complex networks[J]. Physical Review E, 2020, 101(3): 032308.
 
-![](C:information.png)
+![](PRE2020.png)
 
 Gnutella 10876  http://snap.stanford.edu/data/p2p-Gnutella04.html
 
