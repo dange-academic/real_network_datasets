@@ -15,8 +15,8 @@
 
 1、Real network datasets in Network Science Books: A.-L. Barabasi, Network Science. Cambridge University Press, 2016. 
 
-![](C:\Users\DC_PC\Desktop\real_network_datasets\1.png)
+![](1.png)
 
 2、Fujiki Y, Yakubo K. Identification of intrinsic long-range degree correlations in complex networks[J]. Physical Review E, 2020, 101(3): 032308.
 
-![](C:\Users\DC_PC\Desktop\real_network_datasets\PRE2020.png)
+![](PRE2020.png)
