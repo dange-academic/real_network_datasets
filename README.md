@@ -1,9 +1,7 @@
-## 该项目收集了复杂网络领域已发表论文(或书籍)中使用的真实网络数据集，并提供了一个简单的Python脚本来构建每个数据对应的网络拓扑结构。后续，该项目会持续更新，数据集的数量会逐渐增加。
+### 该项目收集了复杂网络领域已发表论文(或书籍)中使用的真实网络数据集，并提供了一个简单的Python脚本来构建每个数据对应的网络拓扑结构。后续，该项目会持续更新，数据集的数量会逐渐增加。
 
 
-## This project collects real network datasets used in published papers in the field of complex networks, and provides a simple Python code script to construct the network topology corresponding to each data.
-
-## In the future, the project will continue to be updated and the number of datasets will gradually increase.
+### This project collects real network datasets used in published papers in the field of complex networks, and provides a simple Python code script to construct the network topology corresponding to each data. In the future, the project will continue to be updated and the number of datasets will gradually increase.
 
 
 
