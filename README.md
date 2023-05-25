@@ -76,3 +76,11 @@ https://doi.org/10.1103/PhysRevE.101.042308
 Hamsterster friendships   http://konect.cc/networks/petster-friendships-hamster/
 
 U. Rovira i Virgili   http://konect.cc/networks/arenas-email/
+
+
+4、Sun J, Medo M, Staab S. Time-invariant degree growth in preferential attachment network models[J]. Physical Review E, 2020, 101(2): 022309.
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022309
+
+American Physical Society (APS) citation network：https://journals.aps.org/datasets （这个数据集需要给APS官方发邮件获取，邮件地址为：data-requests@aps.org。笔者之前获取了一份，数据文件400多M，无法在这里上传，需要的可以留言）
+
+DBLP (digital bibliography & library project) data：https://www.aminer.cn/citation
