@@ -18,6 +18,7 @@
 
 Download links for the ten datasets: http://networksciencebook.com/translations/en/resources/data.html
 
+
 2、Fujiki Y, Yakubo K. Identification of intrinsic long-range degree correlations in complex networks[J]. Physical Review E, 2020, 101(3): 032308.
 https://doi.org/10.1103/PhysRevE.101.032308
 
@@ -66,3 +67,12 @@ Protein folding 132167  http://cosinproject.eu/extra/data/folding/
 
 Amazon 334863  http://konect.cc/networks/com-amazon/
 
+
+3、Han L, Lin Z, Tang M, et al. Impact of contact preference on social contagions on complex networks[J]. Physical Review E, 2020, 101(4): 042308.
+https://doi.org/10.1103/PhysRevE.101.042308
+
+<img src="PRE2020b.png" width="60%">
+
+Hamsterster friendships   http://konect.cc/networks/petster-friendships-hamster/
+
+U. Rovira i Virgili   http://konect.cc/networks/arenas-email/
