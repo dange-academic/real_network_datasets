@@ -1,7 +1,5 @@
 ## Fujiki Y, Yakubo K. Identification of intrinsic long-range degree correlations in complex networks[J]. Physical Review E, 2020, 101(3): 032308.
 
-
-
 <img src="PRE2020.png" width="60%">
 
 
