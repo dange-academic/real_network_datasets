@@ -14,7 +14,7 @@ Google+ 23628  http://konect.cc/networks/ego-gplus/
 
 Email 36692  http://snap.stanford.edu/data/email-Enron.html
 
-wwW(1) 415624  http://konect.cc/networks/zhishi-baidu-relatedpages/ （没找到一致的）
+WWW(1) 415624  http://konect.cc/networks/zhishi-baidu-relatedpages/ (The data in Table 2 of the article is not found. Here is a similar data "zhishi-baidu-relatedpages".)
 
 Brightkite 58228  http://konect.cc/networks/loc-brightkite_edges/
 
@@ -26,7 +26,7 @@ YouTube 1134890  http://konect.cc/networks/com-youtube/
 
 Coauthor (2) 12006  http://snap.stanford.edu/data/ca-HepPh.html
 
-Actor 82583  http://cosinproject.eu/extra/data/actors/imdb.html（原始的无法访问，这里使用的是巴拉巴西网络科学书籍中对应的演员网络数据）
+Actor 82583  http://cosinproject.eu/extra/data/actors/imdb.html (The raw data is not accessible, and the corresponding actor network data from the Barabasi Network Science book is used here)
 
 Coauthor (3) 23133  http://snap.stanford.edu/data/ca-CondMat.html
 
@@ -36,7 +36,7 @@ WWW(2) 325729  http://konect.cc/networks/web-NotreDame/
 
 Internet (router level) 192244  http://math.bu.edu/people/kolaczyk/datasets.html
 
-WWW(3) 255265  https://networkrepository.com/web-Stanford.php  （没找到一致的）
+WWW(3) 255265  https://networkrepository.com/web-Stanford.php  (This data could not be found from the URL provided in the article, and we provide another web data)
 
 WWW(4) 685230  http://konect.cc/networks/web-BerkStan/
 
