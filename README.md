@@ -14,7 +14,7 @@
 
 1、Real network datasets in Network Science Books: A.-L. Barabasi, Network Science. Cambridge University Press, 2016. 
 
-<img src="1.png" width="60%">
+<img src="1.png" width="80%">
 
 Download links for the ten datasets: http://networksciencebook.com/translations/en/resources/data.html
 
