@@ -105,7 +105,7 @@ Socfb：https://networkrepository.com/socfb
 IG5、TF、Rajat、Cage、Maragal：https://networkrepository.com/misc.php
 
 6、Chen D, Cai D, Su H. Scaling properties of scale-free networks in degree-thresholding renormalization flows[J]. IEEE Transactions on Network Science and Engineering, 2023.
-https://ieeexplore.ieee.org/abstract/document/10100895
+DOI: 10.1109/TNSE.2023.3266381. https://ieeexplore.ieee.org/abstract/document/10100895
 
 <img src="TNSE2023.png" width="80%">
 
