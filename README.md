@@ -90,7 +90,7 @@ DBLP (digital bibliography & library project) data：https://www.aminer.cn/citat
 5、Chen D, Su H, Wang X, et al. Finite-size scaling of geometric renormalization flows in complex networks[J]. Physical Review E, 2021, 104(3): 034304.
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304
 
-<img src="PRE2021.png" width="60%">
+<img src="PRE2021.png" width="80%">
 
 Gnutella：http://snap.stanford.edu/data/
 
@@ -103,3 +103,17 @@ Cond-Mat：http://www-personal.umich.edu/~mejn/netdata/
 Socfb：https://networkrepository.com/socfb
 
 IG5、TF、Rajat、Cage、Maragal：https://networkrepository.com/misc.php
+
+6、Chen D, Cai D, Su H. Scaling properties of scale-free networks in degree-thresholding renormalization flows[J]. IEEE Transactions on Network Science and Engineering, 2023.
+https://ieeexplore.ieee.org/abstract/document/10100895
+
+<img src="TNSE2023.png" width="80%">
+
+数据地址见我们的代码仓库：https://github.com/cdzqf/DTR
+
+7、Chen D, Su H. Identification of influential nodes in complex networks with degree and average neighbor degree[J]. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023. DOI: 10.1109/JETCAS.2023.3283680. https://ieeexplore.ieee.org/abstract/document/10145778
+
+<img src="JETCAS2023.png" width="80%">
+
+数据地址见我们的代码仓库：https://github.com/cdzqf/identifying_important_nodes
+
