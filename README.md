@@ -86,3 +86,20 @@ https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.022309
 American Physical Society (APS) citation network：https://journals.aps.org/datasets （这个数据集需要给APS官方发邮件获取，邮件地址为：data-requests@aps.org。笔者之前获取了一份，数据文件400多M，无法在这里上传，需要的可以留言）
 
 DBLP (digital bibliography & library project) data：https://www.aminer.cn/citation
+
+5、Chen D, Su H, Wang X, et al. Finite-size scaling of geometric renormalization flows in complex networks[J]. Physical Review E, 2021, 104(3): 034304.
+https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304
+
+<img src="PRE2021.png" width="60%">
+
+Gnutella：http://snap.stanford.edu/data/
+
+AS：http://snap.stanford.edu/data/as.html
+
+CAIDA：http://snap.stanford.edu/data/as-caida.html
+
+Cond-Mat：http://www-personal.umich.edu/~mejn/netdata/
+
+Socfb：https://networkrepository.com/socfb
+
+IG5、TF、Rajat、Cage、Maragal：https://networkrepository.com/misc.php
