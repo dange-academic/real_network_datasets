@@ -121,4 +121,6 @@ DOI: 10.1109/TNSE.2023.3266381. https://ieeexplore.ieee.org/abstract/document/10
 8、George T. Cantwell, Alec Kirkley, Filippo Radicchi. Heterogeneous message passing for heterogeneous networks. [Phys. Rev. E 108, 034310 (2023)](
 https://doi.org/10.1103/PhysRevE.108.034310). 
 
-<img src="PRE2023.png" width="80%">
+<img src="PRE2023a.png" width="80%">
+<img src="PRE2023b.png" width="80%">
+<img src="PRE2023c.png" width="80%">
