@@ -109,18 +109,18 @@ DOI: 10.1109/TNSE.2023.3266381. https://ieeexplore.ieee.org/abstract/document/10
 
 <img src="TNSE2023.png" width="80%">
 
-数据地址见我们的代码仓库：https://github.com/cdzqf/DTR
+数据地址见我们的代码仓库：[https://github.com/cdzqf/DTR](https://github.com/chend2023/DTR)
 
 7、Chen D, Su H. Identification of influential nodes in complex networks with degree and average neighbor degree[J]. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023. DOI: 10.1109/JETCAS.2023.3283680. https://ieeexplore.ieee.org/abstract/document/10145778
 
 <img src="JETCAS2023.png" width="80%">
 
-数据地址见我们的代码仓库：https://github.com/cdzqf/identifying_important_nodes
+数据地址见我们的代码仓库：[https://github.com/cdzqf/identifying_important_nodes](https://github.com/chend2023/identifying_important_nodes)
 
 
 8、George T. Cantwell, Alec Kirkley, Filippo Radicchi. Heterogeneous message passing for heterogeneous networks. [Phys. Rev. E 108, 034310 (2023)](
 https://doi.org/10.1103/PhysRevE.108.034310). 
 
-<img src="PRE2023a.png" width="80%">
-<img src="PRE2023b.png" width="80%">
-<img src="PRE2023c.png" width="80%">
+<img src="./Attached_files/PRE2023a.png" width="80%">
+<img src="./Attached_files/PRE2023b.png" width="80%">
+<img src="./Attached_files/PRE2023c.png" width="80%">
