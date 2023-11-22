@@ -24,7 +24,7 @@ Download links for the ten datasets: http://networksciencebook.com/translations/
 2、Fujiki Y, Yakubo K. Identification of intrinsic long-range degree correlations in complex networks[J]. Physical Review E, 2020, 101(3): 032308.
 https://doi.org/10.1103/PhysRevE.101.032308
 
-<img src="PRE2020.png" width="60%">
+<img src="./Attached_files/PRE2020.png" width="60%">
 
 
 Gnutella 10876  http://snap.stanford.edu/data/p2p-Gnutella04.html
@@ -73,7 +73,7 @@ Amazon 334863  http://konect.cc/networks/com-amazon/
 3、Han L, Lin Z, Tang M, et al. Impact of contact preference on social contagions on complex networks[J]. Physical Review E, 2020, 101(4): 042308.
 https://doi.org/10.1103/PhysRevE.101.042308
 
-<img src="PRE2020b.png" width="60%">
+<img src="./Attached_files/PRE2020b.png" width="60%">
 
 Hamsterster friendships   http://konect.cc/networks/petster-friendships-hamster/
 
@@ -90,7 +90,7 @@ DBLP (digital bibliography & library project) data：https://www.aminer.cn/citat
 5、Chen D, Su H, Wang X, et al. Finite-size scaling of geometric renormalization flows in complex networks[J]. Physical Review E, 2021, 104(3): 034304.
 https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.034304
 
-<img src="PRE2021.png" width="80%">
+<img src="./Attached_files/PRE2021.png" width="80%">
 
 Gnutella：http://snap.stanford.edu/data/
 
@@ -107,13 +107,13 @@ IG5、TF、Rajat、Cage、Maragal：https://networkrepository.com/misc.php
 6、Chen D, Cai D, Su H. Scaling properties of scale-free networks in degree-thresholding renormalization flows[J]. IEEE Transactions on Network Science and Engineering, 2023.
 DOI: 10.1109/TNSE.2023.3266381. https://ieeexplore.ieee.org/abstract/document/10100895
 
-<img src="TNSE2023.png" width="80%">
+<img src="./Attached_files/TNSE2023.png" width="80%">
 
 数据地址见我们的代码仓库：[https://github.com/cdzqf/DTR](https://github.com/chend2023/DTR)
 
 7、Chen D, Su H. Identification of influential nodes in complex networks with degree and average neighbor degree[J]. IEEE Journal on Emerging and Selected Topics in Circuits and Systems, 2023. DOI: 10.1109/JETCAS.2023.3283680. https://ieeexplore.ieee.org/abstract/document/10145778
 
-<img src="JETCAS2023.png" width="80%">
+<img src="./Attached_files/JETCAS2023.png" width="80%">
 
 数据地址见我们的代码仓库：[https://github.com/cdzqf/identifying_important_nodes](https://github.com/chend2023/identifying_important_nodes)
 
