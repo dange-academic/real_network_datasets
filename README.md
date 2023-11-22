@@ -1,4 +1,4 @@
-## 复杂网络真实数据集开源项目
+## 复杂网络真实数据集开源项目(Complex network real-world datasets)
 
 <img src="./Attached_files/logo.png" width="80%">
 
