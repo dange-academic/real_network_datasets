@@ -124,3 +124,9 @@ https://doi.org/10.1103/PhysRevE.108.034310).
 <img src="./Attached_files/PRE2023a.png" width="80%">
 <img src="./Attached_files/PRE2023b.png" width="80%">
 <img src="./Attached_files/PRE2023c.png" width="80%">
+
+9、Real-world directed networks: Kirkley A. Identifying hubs in directed networks. [Physical Review E, 2024, 109(3): 034310](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.034310).
+
+<img src="./Attached_files/PRE2024.png" width="80%">
+
+Sources of datasets: [https://networks.skewed.de/](https://networks.skewed.de/).
